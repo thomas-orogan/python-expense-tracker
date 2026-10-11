@@ -8,7 +8,6 @@ A command-line expense tracker built with Python.
 - Calculate total income, expenses, and balance
 - View recorded transactions
 - Delete transactions
-- Filter transactions by type
 - Save transactions using JSON
 - Validate user input
 
